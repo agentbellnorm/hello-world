@@ -8,7 +8,6 @@
     <artifactId>java-maven</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0-SNAPSHOT</version>
-    <name>A custom project using myfaces</name>
     <url>http://www.myorganization.org</url>
 
     <build>
